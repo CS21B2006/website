@@ -122,7 +122,7 @@ h2{
 }
 @keyframes example {
   from {background-color: black;}
-  to {background-color: red;}
+  to {background-color: #222222;}
 }
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
